@@ -1,0 +1,195 @@
+# depslib dependency file v1.0
+1681729259 source:c:\users\vumai\desktop\sdl_game\game\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_ttf_function.h"
+	"SDL_utils.h"
+	"SDL_mixer_function.h"
+	"Bullet.h"
+	"Threat.h"
+	"Collision.h"
+	"MainObject.h"
+
+1681649452 source:c:\users\vumai\desktop\sdl_game\game\sdl_tff.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	"SDL_ttf_function.h"
+
+1678800029 c:\users\vumai\desktop\sdl_game\game\sdl_ttf_function.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1681722670 c:\users\vumai\desktop\sdl_game\game\sdl_utils.h
+	<iostream>
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1681702775 source:c:\users\vumai\desktop\sdl_game\game\sdl_utils.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<SDL.h>
+	"SDL_utils.h"
+
+1681720524 source:c:\users\vumai\desktop\sdl_game\game\sdl_mixer_function.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+	"SDL_mixer_function.h"
+
+1679764662 c:\users\vumai\desktop\sdl_game\game\sdl_mixer_function.h
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1681714838 c:\users\vumai\desktop\sdl_game\game\bullet.h
+	<bits/stdc++.h>
+
+1681723255 c:\users\vumai\desktop\sdl_game\game\threat.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1681723638 c:\users\vumai\desktop\sdl_game\game\collision.h
+	<iostream>
+
+1681729161 c:\users\vumai\desktop\sdl_game\game\mainobject.h
+	"SDL_utils.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1682953876 source:c:\users\tuf\desktop\game\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_ttf_function.h"
+	"SDL_utils.h"
+	"SDL_mixer_function.h"
+	"Bullet.h"
+	"Threat.h"
+	"Collision.h"
+	"MainObject.h"
+	<fstream>
+	<ctime>
+
+1682953876 c:\users\tuf\desktop\game\sdl_ttf_function.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1682953876 c:\users\tuf\desktop\game\sdl_utils.h
+	<iostream>
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1682953876 c:\users\tuf\desktop\game\sdl_mixer_function.h
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1682953876 c:\users\tuf\desktop\game\bullet.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1682953876 c:\users\tuf\desktop\game\threat.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1682953876 c:\users\tuf\desktop\game\collision.h
+	<iostream>
+
+1682953876 c:\users\tuf\desktop\game\mainobject.h
+	"SDL_utils.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1682953876 source:c:\users\tuf\desktop\game\sdl_mixer_function.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+	"SDL_mixer_function.h"
+
+1682953876 source:c:\users\tuf\desktop\game\sdl_tff.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	"SDL_ttf_function.h"
+
+1682953876 source:c:\users\tuf\desktop\game\sdl_utils.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<SDL.h>
+	"SDL_utils.h"
+
+1682953027 source:c:\users\vumai\desktop\sdl-game-main\game\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_ttf_function.h"
+	"SDL_utils.h"
+	"SDL_mixer_function.h"
+	"Bullet.h"
+	"Threat.h"
+	"Collision.h"
+	"MainObject.h"
+	<fstream>
+	<ctime>
+
+1681702518 c:\users\vumai\desktop\sdl-game-main\game\sdl_ttf_function.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1682319579 c:\users\vumai\desktop\sdl-game-main\game\sdl_utils.h
+	<iostream>
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1682868704 c:\users\vumai\desktop\sdl-game-main\game\sdl_mixer_function.h
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1681999843 c:\users\vumai\desktop\sdl-game-main\game\bullet.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1682953222 c:\users\vumai\desktop\sdl-game-main\game\threat.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1682007771 c:\users\vumai\desktop\sdl-game-main\game\collision.h
+	<iostream>
+
+1682499971 c:\users\vumai\desktop\sdl-game-main\game\mainobject.h
+	"SDL_utils.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1682870264 source:c:\users\vumai\desktop\sdl-game-main\game\sdl_mixer_function.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+	"SDL_mixer_function.h"
+
+1682142625 source:c:\users\vumai\desktop\sdl-game-main\game\sdl_tff.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	"SDL_ttf_function.h"
+
+1682319518 source:c:\users\vumai\desktop\sdl-game-main\game\sdl_utils.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<SDL.h>
+	"SDL_utils.h"
+
