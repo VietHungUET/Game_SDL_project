@@ -30,10 +30,13 @@ Install my-project with SDL2, SDL2_image, SDL2_mixer, SDL2_ttf.
 
 ```bash
   ● Download https://www.libsdl.org/releases/SDL2-devel-2.0.5-mingw.tar.gz
+  ● Download https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.6.3-mingw.tar.gz
+  ● Download https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-devel-2.20.2-mingw.tar.gz
+  ● Download https://www.libsdl.org/projects/SDL_mixer/release/SDL2_mixer-devel-2.6.3-mingw.tar.gz
 ● Extract to a certain folder, in which there are 2 folders
 ○ 32bit version: i686-w64-mingw32
 ○ 64bit version: x86_64-w64-mingw32
-● Here we use the 32 bit version (because CodeBlock is using mingw32),
+● Here we use the 64 bit version (because CodeBlock is using mingw32),
 In this folder there are 4 folders bin, include, lib, share
 ● The bin directory contains SDL2.dll (link at runtime, copy this file to the directory
 project source code)
